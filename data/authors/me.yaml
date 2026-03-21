@@ -17,11 +17,60 @@ interests:
   - Программирование
   - Операционные системы
 education:
-  - area: Компьютерные и информационные науки
+  - area: Бизнес-информатика
     institution: Российский университет дружбы народов
     date_start: 2025-09-01
     date_end: 2029-06-30
+    summary:
+skills:
+  - name: Языки программирования
+    items:
+      - name: Python
+        icon: devicon/python
+        percent: 70
+      - name: Bash
+        icon: devicon/bash
+        percent: 50
+      - name: C
+        icon: devicon/c
+        percent: 40
+  - name: Инструменты
+    items:
+      - name: Linux
+        icon: devicon/linux
+        percent: 60
+      - name: Git
+        icon: devicon/git
+        percent: 65
+      - name: Hugo
+        icon: devicon/hugo
+        percent: 50
+      - name: Markdown
+        icon: devicon/markdown
+        percent: 80
+
+work:
+  - position: Студент
+    company_name: РУДН
+    company_url: https://www.rudn.ru/
+    date_start: 2025-09-01
+    date_end: ''
     summary: |
+      Направление «Компьютерные и информационные науки».
+      Изучение операционных систем, программирования и информатики.
+
+awards:
+  - title: Поступление в РУДН
+    date: 2025-09-01
+    awarder: РУДН
+    summary: Зачисление на направление «Компьютерные и информационные науки».
+  - title: Создание персонального сайта
+    date: 2025-12-01
+    awarder: Курс «Операционные системы»
+    summary: Развёртывание академического сайта на GitHub Pages с помощью Hugo.
+
       Студент 1 курса направления «Бизнес-информатика».
 summary: |
   Я студент 1 курса Российского университета дружбы народов. Изучаю компьютерные и информационные науки. Интересуюсь программированием и операционными системами.
+
+

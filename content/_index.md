@@ -17,12 +17,28 @@ sections:
     design:
       background:
         gradient_mesh:
-          enable: true
+          enable: false
       name:
-        size: md
+        size: lg
       avatar:
-        size: medium
+        size: large
         shape: circle
+  - block: resume-skills
+    content:
+      title: Навыки
+      username: me
+    design:
+      show_skill_percentage: false
+  - block: resume-experience
+    content:
+      title: Опыт
+      username: me
+    design:
+      date_format: January 2006
+  - block: resume-awards
+    content:
+      title: Достижения
+      username: me
   - block: collection
     id: news
     content:
